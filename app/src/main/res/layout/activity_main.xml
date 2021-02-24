@@ -44,6 +44,7 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="false"
+        android:layout_centerHorizontal="true"
         android:layout_marginStart="131dp"
         android:layout_marginLeft="131dp"
         android:layout_marginTop="620dp"
